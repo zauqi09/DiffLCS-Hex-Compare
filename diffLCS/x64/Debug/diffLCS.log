@@ -1,0 +1,21 @@
+﻿  diffLCS.cpp
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(361,49): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(361,49): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(545,23): warning C4018: '<': signed/unsigned mismatch
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(553,18): warning C4018: '>=': signed/unsigned mismatch
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(553,42): warning C4018: '>=': signed/unsigned mismatch
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(559,12): warning C4018: '<': signed/unsigned mismatch
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(559,66): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(560,48): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(562,12): warning C4018: '<': signed/unsigned mismatch
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(562,66): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(563,48): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(584,22): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(608,22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(609,22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(635,18): warning C4018: '>=': signed/unsigned mismatch
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(635,42): warning C4018: '>=': signed/unsigned mismatch
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(660,14): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(662,36): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+F:\TA\laporan TA\diffLCS\diffLCS\diffLCS\diffLCS.cpp(662,24): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'const float', possible loss of data
+  diffLCS.vcxproj -> F:\TA\laporan TA\diffLCS\diffLCS\x64\Debug\diffLCS.exe
